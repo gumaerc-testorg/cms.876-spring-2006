@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: A/V Selections
+type: CourseSection
 uid: 0dbfd575-7f61-3fce-4742-1030f1711a6e
 ---
 

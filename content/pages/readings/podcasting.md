@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 8373bb4f-580e-5995-fe2b-33b9a4f33b16
 title: Podcasting
+type: CourseSection
 uid: 9055430f-6815-474e-b9af-e4c4f65852d6
 ---
 
@@ -109,7 +113,7 @@ Podcasting How-To
     
     *   Go to the blog and click "post" at the top of the page, then click "create entry".
         
-    *   If you'd like to include some descriptive text explaining what your podcast is about, that would be helpful. However, all you have to do is include a hyperlink to your audio file and the software will do the rest. here's a sample link: <a href="http://<cms.876 podcast site>/<username>/<mp3file.mp3">my podcast file</a>
+    *   If you'd like to include some descriptive text explaining what your podcast is about, that would be helpful. However, all you have to do is include a hyperlink to your audio file and the software will do the rest. here's a sample link: \<a href="http://\<cms.876 podcast site>/\<username>/\<mp3file.mp3">my podcast file\</a>
         
 
 ### Listen
