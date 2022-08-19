@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Closeup of knobs, dials and wires on an analog synthesizer.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 resourcetype: Image
 title: Serge Modular Synthesizer (thumbnail)
 uid: c4995408-c42b-ce25-75e7-2ae3c2a09eaf
 ---
 Up close with a prototype Serge Modular Synthesizer. (Photo courtesy of Wayne Marshall.)
-
